@@ -1,2 +1,2 @@
 # Popcorn Impact
- Evaluate the handling of popcorrn's impact on sales 
+ Evaluate the cost of mishandling KFC's popcorn product. 
