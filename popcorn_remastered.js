@@ -103,7 +103,7 @@ function popImpact (volumeFreshPop,holdTime,overPortion,theoreticalUsage) {
 
 popImpact(
 8.9, // Popcorn piece volume in cm3
-0, //  time in minutes
-20,  // Over-portioning as percentage
+15, //  Overhold time in minutes
+0,  // Over-portioning as percentage
 15.57 // Theoretical Usage in KG
 )
